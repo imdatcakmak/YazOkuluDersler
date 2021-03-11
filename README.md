@@ -1,5 +1,8 @@
 # YazOkuluDersler
-Student,lesson asp.net wep application with 5 layers (Entity Layer,Business Logic Layer,DataAccessLayer,Presentation,Database)
+Student,lesson asp.net web application with 5 layers (Entity Layer,Business Logic Layer,DataAccessLayer,Presentation,Database)
+Screenshots from web application;
+
+
 ![ders](https://user-images.githubusercontent.com/65205036/110820678-5f4a1180-82a0-11eb-9205-5dcff86bc337.PNG)
 
 
